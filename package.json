@@ -1,0 +1,13 @@
+{
+  "name": "il-movimento-landing",
+  "version": "1.0.0",
+  "description": "Landing page per Il Movimento - Web2 & Web3 Revolution",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["web3", "web2", "landing-page", "cryptocurrency", "blockchain"],
+  "author": "Il Movimento",
+  "license": "MIT"
+}
